@@ -1,4 +1,4 @@
-# M-17 Natural Language Search Module
+# M-17 Natural Language Search & Intelligent Query Assistant
 
 **Group:** G-18  
 **Interns:** Abeera Arfan (2025-CS-29), Hareema Saleem (2025-CS-39)  
